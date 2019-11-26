@@ -1,4 +1,5 @@
 ```
+
 abstract class CShap {
   protected String color;
 
@@ -45,4 +46,5 @@ class Main{
       Ctr1.show();
   }
 }
+
 ```
